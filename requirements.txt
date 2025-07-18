@@ -1,0 +1,7 @@
+axolotl==1.1.4
+transformers==4.40.1
+accelerate==0.27.2
+bitsandbytes==0.41.2.post2
+scipy
+peft==0.10.0
+sentencepiece
